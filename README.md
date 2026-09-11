@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Thiago Regis
 
-**`Gestor de Processos`**
+**`Gestão de Processos`**
 
 Me chamo Thiago, e tenho 24 anos, atualmente, estou cursando Sistemas de Informação na UDF. Sou apaixonado por tecnologia e compartilho minhas vivencias através do Linkedin, com o perfil chamado "[thirex](https://www.linkedin.com/in/thirex/)", atualmente estou estagiando na area, e migrando para analise de dados juntamente com desenvolimento web.
 
