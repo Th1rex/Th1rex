@@ -121,6 +121,21 @@ Me chamo Thiago, e tenho 24 anos, atualmente, estou cursando Sistemas de Informa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />          
+<img
+    align="left" 
+    alt="NPM" 
+    title="Npm"
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" 
+/> 
+<img
+    align="left" 
+    alt="NODEJS" 
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/> 
 <br/>
 <br/>
